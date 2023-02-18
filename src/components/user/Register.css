@@ -1,0 +1,16 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  padding: 25px;
+  border: solid red;
+  margin: auto;
+}
+
+.register {
+  text-align: center;
+}
+
+.input {
+  margin-top: 15px;
+}
